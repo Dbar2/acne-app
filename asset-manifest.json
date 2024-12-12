@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/acne-app/static/css/main.e53086db.chunk.css",
+    "main.js": "/acne-app/static/js/main.09775ee7.chunk.js",
+    "main.js.map": "/acne-app/static/js/main.09775ee7.chunk.js.map",
+    "runtime-main.js": "/acne-app/static/js/runtime-main.81af167f.js",
+    "runtime-main.js.map": "/acne-app/static/js/runtime-main.81af167f.js.map",
+    "static/css/2.876f1645.chunk.css": "/acne-app/static/css/2.876f1645.chunk.css",
+    "static/js/2.5373d395.chunk.js": "/acne-app/static/js/2.5373d395.chunk.js",
+    "static/js/2.5373d395.chunk.js.map": "/acne-app/static/js/2.5373d395.chunk.js.map",
+    "index.html": "/acne-app/index.html",
+    "precache-manifest.3338efc807320ceed649148bafd53902.js": "/acne-app/precache-manifest.3338efc807320ceed649148bafd53902.js",
+    "service-worker.js": "/acne-app/service-worker.js",
+    "static/css/2.876f1645.chunk.css.map": "/acne-app/static/css/2.876f1645.chunk.css.map",
+    "static/css/main.e53086db.chunk.css.map": "/acne-app/static/css/main.e53086db.chunk.css.map",
+    "static/js/2.5373d395.chunk.js.LICENSE.txt": "/acne-app/static/js/2.5373d395.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81af167f.js",
+    "static/css/2.876f1645.chunk.css",
+    "static/js/2.5373d395.chunk.js",
+    "static/css/main.e53086db.chunk.css",
+    "static/js/main.09775ee7.chunk.js"
+  ]
+}
